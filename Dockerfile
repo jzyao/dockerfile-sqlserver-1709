@@ -1,6 +1,6 @@
 FROM microsoft/windowsservercore:1709
 
-LABEL maintainer "Perry Skountrianos"
+LABEL maintainer "jzyao"
 
 # Download Links:
 ENV exe "https://go.microsoft.com/fwlink/?linkid=840945"
